@@ -1,7 +1,5 @@
 {
   "files.associations": {
-    "ostream": "cpp",
-    "iostream": "cpp",
     "array": "cpp",
     "deque": "cpp",
     "forward_list": "cpp",
@@ -12,7 +10,6 @@
     "vector": "cpp",
     "initializer_list": "cpp",
     "regex": "cpp",
-    "valarray": "cpp",
-    "functional": "cpp"
+    "valarray": "cpp"
   }
 }

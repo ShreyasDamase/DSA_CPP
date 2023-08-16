@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void reverse(int arr[],int i,int end){
+void reverse(int *arr ,int i,int end){
     if(i>=end){
         return;
     }

@@ -1,0 +1,1 @@
+int Maximize(int a[],int n)
